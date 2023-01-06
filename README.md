@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kwanzu currently a Web deveoper.
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning Python and R 
+- 🌱 I’m currently learning Advanced Python and R 
 - 💞️ I’m looking to collaborate on with any data scientists 
       in developing optimized code for better performing models
 - 📫 How to reach me: dannxudans@gmail.com
