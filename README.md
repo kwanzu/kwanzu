@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kwanzu currently a Web developer.
+- 👋 Hi, I’m @Daniel currently a Web developer.
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Advanced Python and R 
 - 💞️ optimized better-performing models
